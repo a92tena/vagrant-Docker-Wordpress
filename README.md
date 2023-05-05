@@ -1,6 +1,6 @@
 # Práctica 3: Wordpress con docker-compose
 
-##crear maquina virutal
+## crear maquina virutal
 
 ~~~
 vagrant init bento/ubuntu-22.04
